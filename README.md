@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! I'm Sudhanshu Yadav</h2>
-<p align="left">
-  🎓 I'm currently pursuing a B.Tech in Computer Science and Business Systems at D. Y. Patil University.<br>
-  💻 Passionate about software development, data structures, and solving real-world problems through code.<br>
-  🚀 Always eager to learn new technologies and improve my skills.
-</p>
+## Hi 👋! I'm Sudhanshu Yadav
+
+🎓 I'm a B.Tech student in **Computer Science and Business Systems** at **D. Y. Patil University**.  
+💻 I’m passionate about software development, data structures, and building real-world tech solutions.  
+🚀 Always eager to learn new technologies and improve my skills.
+
